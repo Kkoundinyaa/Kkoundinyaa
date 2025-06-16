@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koundinya Badikela</h1>
 <h3 align="center">Aspiring Machine Learning and Deep Learning Engineer</h3>
 
-- 🔭 I’m currently working on [Image Classification of stroke blood classification](https://colab.research.google.com/drive/1KPQq76Rfg4JovPpdGTHIMuFNn_RAgz3l?usp=sharing)
 
 - 🌱 I’m currently learning **Tensorflow**
 
