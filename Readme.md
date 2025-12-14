@@ -1,35 +1,47 @@
 # Krishna Koundinya
 
-Graduate student at **The Ohio State University** specializing in **Natural Language Processing, Large Language Models, and multilingual pretraining**.  
-Interested in building reliable, scalable ML systems with real-world impact across research and industry.
+Graduate student at **The Ohio State University** specializing in **Natural Language Processing (NLP), Large Language Models (LLMs), and multilingual modeling**.  
+Focused on building reliable and scalable ML systems through research in **tokenization, pretraining, and model evaluation**.
+
+---
 
 ## Current Focus
-- Multilingual LLM pretraining using **phonetic (IPA-based) tokenization**
+- Multilingual LLM pretraining with **phonetic (IPA-based) tokenization**
 - Cross-lingual transfer for low-resource languages
-- LLM evaluation, robustness, and error analysis on real datasets
-- Tokenization (currently focusing on Flexible Tokenization)
+- Flexible and adaptive tokenization strategies
+- LLM evaluation, robustness, and error analysis on real-world datasets
+
+---
 
 ## Featured Projects
 
-🔹 **IPA-GPT: Phonetic Tokenization for Multilingual LLMs**  
-Research project exploring IPA-based tokenization to improve cross-lingual generalization in GPT-style models.  
+🔹 **IPA-GPT — Phonetic Tokenization for Multilingual LLMs**  
+Research project investigating IPA-based tokenization to improve cross-lingual generalization in GPT-style models.  
 → https://github.com/Kkoundinyaa/IPA_GPT
 
-🔹 **LLM Fine-Tuning & Evaluation**  
-Fine-tuning transformer models for classification and downstream NLP tasks with structured evaluation and analysis.  
+🔹 **XLM Fine-Tuning for SMM4H 2025**  
+Fine-tuning and evaluation of XLM / XLM-R models for multilingual social media health classification tasks.  
 → https://github.com/Kkoundinyaa/XLM-FInetuning
 
-🔹 **Prompt Engineering & LLM Analysis**  
-Experiments analyzing prompt design, failure modes, and robustness in modern large language models.  
-→ https://github.com/Kkoundinyaa/prompt-engineering
+🔹 **Text Classification with LLM Prompt Engineering**  
+Zero-shot and few-shot prompt engineering experiments for business event classification, including structured explanations.  
+→ https://github.com/Kkoundinyaa/Text-Classification-with-LLM-Prompt-Engineering
+
+🔹 **modded-nanogpt — Custom GPT Pretraining Pipeline**  
+Modified NanoGPT-style training pipeline supporting custom tokenizers and multilingual pretraining.  
+→ https://github.com/Kkoundinyaa/modded-nanogpt
+
+---
 
 ## Technical Skills
 - **Languages:** Python, Java, C++
-- **ML / NLP:** PyTorch, Hugging Face, Transformers, LLM fine-tuning
-- **Research:** Pretraining, tokenization, evaluation, error analysis
-- **Tools:** Git, Linux, Jupyter, Google Colab
+- **ML / NLP:** PyTorch, Hugging Face Transformers, XLM / XLM-R, GPT-style models
+- **Research:** Pretraining, tokenization, multilingual modeling, evaluation & error analysis
+- **Tools:** Git, Linux, Jupyter, Google Colab, SLURM / HPC environments
+
+---
 
 ## Connect
-- 📄 Resume: coming soon...
-- 💼 LinkedIn: <https://www.linkedin.com/in/krishna-badikela/>
-- 📧 Email: <kkbad2002@gmail.com>
+- 📄 Resume: coming soon
+- 💼 LinkedIn: https://www.linkedin.com/in/krishna-badikela/
+- 📧 Email: kkbad2002@gmail.com
