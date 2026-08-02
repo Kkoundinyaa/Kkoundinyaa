@@ -9,8 +9,6 @@ I build things that ship — from pretraining billion-parameter models on H100 c
 ## 🔭 What I've Been Working On
 
 - **Multilingual LLM pretraining** using phonetic (IPA-based) tokenization for cross-lingual transfer across Hindi-Urdu, Tamil-Malayalam, and Russian-Polish
-- **Agentic AI systems** — production middleware server routing webhook events through a multi-provider LLM classification layer and Claude Agent SDK
-- **Compliance automation** — LLM-driven validation pipeline for structured financial records (CalSTRS F496 payroll files, $340B+ pension fund)
 - **Open source NLP** — maintaining dhvani, a Hinglish phonetic normalization library on PyPI
 
 ---
